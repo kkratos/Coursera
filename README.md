@@ -1,2 +1,3 @@
-# Coursera
-Repo for all my Coursera Course Exercises and Materials
+| Institution | Specialization                   | H-01                                                        | Course/Achievement                                                                                |
+| ----------- | -------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Coursera    | ML for Supply Chain              | Excel Skills for Business                                   | Linear Programming with Pulp and Python Skills          |
