@@ -1,3 +1,3 @@
-| Institution | Specialization                   | Topics                                                       | Course/Achievement                                                                                |
+| Institution | Specialization                   | Topics                                                       | Skills                                                                                |
 | ----------- | -------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Coursera    | ML for Supply Chain              | Supply Chain and Forecasting                                | Linear Programming with Pulp and Python Skills          |
+| LearnQuest    | ML for Supply Chain              | Supply Chain and Forecasting                                | Linear Programming with Pulp and Python (pandas)          |
